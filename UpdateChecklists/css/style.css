@@ -1,0 +1,261 @@
+     *{
+         padding: 0;
+         margin: 0;
+     }
+      .navbar-form .btn {
+          width: 170px;
+      }
+      
+      tbody.highlight tr:hover td{
+          background-color: rgb(228, 216, 185);
+      }
+
+.Approved{
+    color: green;
+}
+
+.Draft{
+    color: red;
+}
+
+.Archived{
+    color: gray;
+}
+
+.dropdown-menu{
+    width: 300px;
+}
+
+.page-id{
+    font-size: 12px;
+}
+.pid-width td {
+    width: 150px;
+}
+
+      .navbar {
+          background-color: lightgray;
+      }
+      
+      body {
+          padding: 70px;
+          font-family: Verdana;
+      }
+      
+      .status {
+          float: left;
+          margin-left: 20px;
+      }
+      
+      .caret {
+          margin-top: 10px;
+      }
+      
+      .well {
+          margin-top: 10px;
+          padding: 0;
+          width: 100%;
+      }
+      
+      .checklist-body {
+          padding: 20px;
+      }
+      
+      tr.SectionText {
+          font-weight: bold;
+          font-size: 14px;
+      }
+tr.SectionData{
+    font-size: 14px;
+}
+      
+      .row {
+          margin-top: 10px;
+          margin-bottom: 10px;
+      }
+      
+      .add-btn {
+          display: none;
+      }
+      
+      .headline {
+          border-bottom-style: solid;
+      }
+      
+      #loaderImage {
+          display: none;
+          position: absolute;
+          top: 120px;
+          left: 50%;
+          width: 100px;
+          margin: 50px auto 50px auto;
+      }
+      
+      table thead th.sorted.asc::after {
+          border-top: 8px solid rgba(0, 0, 0, .4);
+      }
+      
+      table thead th.sorted.desc::after {
+          border-bottom: 8px solid rgba(0, 0, 0, .4);
+      }
+      
+      table thead th.header {
+          cursor: pointer;
+      }
+      
+      ul.nav a:hover {
+          color: #006651;
+      }
+      
+      table thead th.sorted::after {
+          content: '';
+          display: inline-block;
+          margin-left: 8px;
+          margin-top: -2px;
+          border-left: 6px solid transparent;
+          border-right: 6px solid transparent;
+      }
+      
+      #EditDesc {
+     /*
+        width: 1250px;
+          height: 2000px;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          margin-top: -220px;
+          margin-left: -600px;
+          padding: 30px;
+      */
+      margin: 10vh;
+        }
+      
+      div.EditModal {
+          width: 1150px;
+          height: 1800px;
+          margin-left: 10%;
+          margin-top: 5%;
+      }
+
+ #NewStep {
+          width: 1150px;
+          height: 1800px;
+          margin-left: 12%;
+          margin-top: 5%;
+      }
+      
+b.error{
+    text-align: center;
+    color: red;
+    font-size: 18px;
+}
+
+
+img.update-load{
+padding-top: 270%;
+}
+
+span.glyphicon{
+    font-size: 40px;
+}
+.glyphicon-remove
+{
+    color: gray;
+}
+.glyphicon-ok
+{
+    color: green;
+}
+
+.glyphicon-question-sign
+{
+    color: red;
+}
+
+.blue
+{
+    color: blue
+}
+
+.padding{
+    padding-left: 3%;
+}
+
+.padding-li{
+    padding-left: 35px;
+}
+
+.progress-status{
+        margin-top: 3%;
+    text-align: center;
+}
+
+.progress{
+    width: 250px;
+    
+}
+span.percent{
+    text-align: center;
+    
+}
+
+.editInfo{
+   padding-bottom: 1%;
+    display: none;
+   
+}
+
+.scope{
+    color: red;
+    margin-top: -5%;
+}
+
+.step-headline
+{
+    padding-top: 20px;
+}
+
+.padding-desc{
+    padding-top: 10px;
+}
+
+input[type=checkbox]{
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-top: 10px;
+    }
+
+.no-margin{
+    margin-right: -100px;
+}
+
+ #edit-modal {
+          width: 800px;
+          height: 2000px;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          margin-top: -300px;
+          margin-left: -400px;
+          padding: 30px;
+      }
+.gray{
+    color: gray;
+}
+
+.InProgress{
+    color: green;
+}
+.OnHold{
+    color: red;
+}
+.Cancelled{
+    color: red;
+}
+.Complete{
+    color: grey;
+}
+
+
+  
